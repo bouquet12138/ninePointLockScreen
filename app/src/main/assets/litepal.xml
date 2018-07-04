@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+
+    <dbname value="UserStore"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.example.ninepointtask.bean.User"></mapping>
+    </list>
+
+</litepal>
