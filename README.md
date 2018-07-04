@@ -1,6 +1,6 @@
 演示图片
 --------
-![image](https://github.com/bouquet12138/pictureLibrary/blob/master/ninePoint.gif)
+![image](https://github.com/bouquet12138/pictureLibrary/blob/master/ninePoint.gif)<br>
 相关属性
 --------
 		<!--点的数量 需要是自然数的平方 不建议太大 比如 4 9 16 25 等-->
